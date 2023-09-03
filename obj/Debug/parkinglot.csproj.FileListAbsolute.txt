@@ -1,0 +1,6 @@
+/home/alfath/RiderProjects/parkinglot/bin/Debug/parkinglot.exe
+/home/alfath/RiderProjects/parkinglot/bin/Debug/parkinglot.pdb
+/home/alfath/RiderProjects/parkinglot/obj/Debug/parkinglot.csproj.AssemblyReference.cache
+/home/alfath/RiderProjects/parkinglot/obj/Debug/parkinglot.csproj.CoreCompileInputs.cache
+/home/alfath/RiderProjects/parkinglot/obj/Debug/parkinglot.exe
+/home/alfath/RiderProjects/parkinglot/obj/Debug/parkinglot.pdb
